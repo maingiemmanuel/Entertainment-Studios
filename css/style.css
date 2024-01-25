@@ -1,0 +1,27 @@
+.container{
+    color: aquamarine;
+    margin: 0 auto;
+    text-align: justify;
+    width: 870px;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+ul{
+    li{
+        list-style-type: none;
+        float: left;
+        margin: 15px;
+        padding: 6px;
+        border-right: 2px solid black;
+        font-weight: bold;
+    }
+}
+a{
+    text-decoration: none;
+
+}
